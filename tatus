@@ -1,0 +1,47 @@
+[33mcommit 869969210354baa2631c78c55932f7fbdca56fec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Octavio Robles <orobles.ing@gmail.com>
+Date:   Fri Jun 10 23:46:57 2022 -0400
+
+    Commit al master del blogspot en su version mas reciente
+
+ CSS/estilos.css | 19 [32m++++++++++++++++++[m[31m-[m
+ Historia.txt    |  9 [32m+++[m[31m------[m
+ blogpost.html   | 20 [32m+++++++++++++[m[31m-------[m
+ 3 files changed, 34 insertions(+), 14 deletions(-)
+
+[33mcommit 1e0334c9d35ae177089ae51f67f717773dcd6abd[m
+Author: Octavio Robles <orobles.ing@gmail.com>
+Date:   Fri Jun 10 23:04:02 2022 -0400
+
+    Arranco mmi proyecto real con html y css
+
+ CSS/estilos.css |  5 [32m+++++[m
+ blogpost.html   | 11 [32m+++++++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit f140ab7ce2a132f5c885e285737d6de1f5ce6ae7[m
+Author: Octavio Robles <orobles.ing@gmail.com>
+Date:   Fri Jun 10 19:32:43 2022 -0400
+
+    Agregamos algo de historia
+
+ Historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit ec81381358c3abe154da20c015127a11b1e89519[m
+Author: Octavio Robles <orobles.ing@gmail.com>
+Date:   Fri Jun 10 19:25:35 2022 -0400
+
+    Cambio al archivo de historia
+
+ Historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 617b1c08c5305ab3e750e9da94e8e08b416bc7cd[m
+Author: Octavio Robles <orobles.ing@gmail.com>
+Date:   Fri Jun 10 19:23:42 2022 -0400
+
+    Este es el primer commit de este archivo
+
+ Historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
